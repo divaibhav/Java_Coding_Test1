@@ -17,5 +17,10 @@ student list on the basis of student name in descending order and return the sor
 **Note:**
 
 Use bubble sort algorithm, library method or collection method for sorting in not allowed, you have to write your own
-sorting logic. Free to use any library method apart form sorting methods.
+sorting logic. Free to use any library method apart from sorting methods.
+
+Output formatting is user choice
+
+**sample output**
+![smaple output](img.png)
 
